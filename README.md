@@ -1,6 +1,6 @@
 # Mini_shell #
 
-School project made by me and a coTeam @Akhouya .
+School project made by me and a coTeam @Akhouya . 
 
 An implementation of a shell , with limited features ofc .
 # Prerequisites for making this code run proprely :
