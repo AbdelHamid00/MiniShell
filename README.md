@@ -4,8 +4,6 @@ School project made by me and a coTeam @Akhouya .
 
 An implementation of a shell , with limited features ofc .
 # Prerequisites for making this code run proprely :
-You need a computer hahahaha , anyway ... lets continue 
-
 For MacOs and Linux users, For windows users go use WSL .
 
 You need a C compiler + The GNU Readline Library installed in your machine . That's all .
