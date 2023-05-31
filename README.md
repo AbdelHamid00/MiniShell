@@ -7,7 +7,6 @@ An implementation of a shell , with limited features ofc .
 # Features :
 • Display a prompt when waiting for a new command.
 
-
 • Have a working history.
 
 
