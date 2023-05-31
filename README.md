@@ -3,11 +3,19 @@
 School project made by me and a coTeam @Akhouya .
 
 An implementation of a shell , with limited features ofc .
-# To use or test my code
+# Prerequisites for making this code run proprely :
+
+# To use or test my code :
 Run the folowing commandes after cloning this repo 
+
     ◦ cd MiniShell
+    
     ◦ make all 
-    ◦ ./minishell 
+    
+    ◦ ./minishell
+    
+ Go a head and write in the prompt to run your commandes .
+ 
 # Features :
 • Display a prompt when waiting for a new command.
 
